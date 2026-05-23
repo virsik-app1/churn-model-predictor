@@ -1,2 +1,4 @@
-# churn-model-predictor
-CUA AI Contest Project
+[Churn-model-predictor] Problem. I am solving the rentention problem membership services have when it comes to managing their customers subscription activity. 
+Solution. My app will connect to CRM software of membership oreinted businesses and pull data through an AI model that takes action towards a flagged customer or alerts the manager that something needs to be done to retain a client who is on the verge of canceling. 
+Target user is the 35-50 year old studio owner who loves fitness but not software. They care about one thing, retaining customers, but are not tech savy, nor could they allocate hours a day to sort out trends in a CRM database to find the most at-risk clients. This is where the AI model does this all without supervised oversight by the owner. 
+Three to five bullets the judges could measure: speed, accuracy, cost, user satisfaction, etc. 1. Churn reduction rate %. 2. Revenue saved per studio per month. 3. Owner time saved per week. 4. Message open + response rate. 
